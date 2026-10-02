@@ -1,0 +1,5 @@
+segment,customers,median_recency_days,median_orders,median_spend,total_spend,observed_churn_rate,pct_customers,pct_spend
+Champions,871,18.0,14.0,5168.85,9212230.83,0.16,16.57,67.29
+At-risk regulars,1607,162.0,5.0,1452.39,3268952.15,0.53,30.57,23.88
+Dormant one-time buyers,2131,323.0,1.0,294.24,731403.19,0.8,40.54,5.34
+Recent light buyers,647,25.0,2.0,596.4,478238.77,0.44,12.31,3.49

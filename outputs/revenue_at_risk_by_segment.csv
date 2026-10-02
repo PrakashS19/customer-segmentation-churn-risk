@@ -1,0 +1,5 @@
+segment,customers,observed_churn_rate,mean_predicted_churn,quarterly_value,predicted_revenue_at_risk,realised_revenue_at_risk,pct_of_total_at_risk
+At-risk regulars,1607,0.53,0.68,445538.01,272411.64,204344.15,46.22
+Champions,871,0.16,0.25,1361087.19,167769.71,98071.79,28.46
+Dormant one-time buyers,2131,0.8,0.91,100028.49,87078.92,71506.2,14.77
+Recent light buyers,647,0.44,0.66,102206.32,62176.89,39508.56,10.55

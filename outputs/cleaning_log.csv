@@ -1,0 +1,6 @@
+step,rows
+Raw rows,1067371
+After dropping exact duplicate rows,1033036
+After dropping rows with no CustomerID,797885
+"Sales lines (not cancelled, qty>0, price>0, product code)",776577
+"Return lines (cancelled invoices, product code)",17586

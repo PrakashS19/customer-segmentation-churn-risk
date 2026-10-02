@@ -1,0 +1,47 @@
+{
+  "seed": 42,
+  "horizon_days": 90,
+  "test_snapshot": "2011-09-09",
+  "train_snapshots": [
+    "2010-12-12",
+    "2011-03-13",
+    "2011-06-11"
+  ],
+  "k": 4,
+  "model_chosen_on_validation": "Logistic regression",
+  "validation_auc": {
+    "Logistic regression": 0.817665012969164,
+    "Random forest": 0.8148731619863332
+  },
+  "features": [
+    "recency_days",
+    "frequency",
+    "monetary",
+    "tenure_days",
+    "avg_order_value",
+    "orders_90d",
+    "orders_180d",
+    "orders_365d",
+    "revenue_90d",
+    "revenue_180d",
+    "revenue_365d",
+    "single_order",
+    "avg_gap_days",
+    "n_products",
+    "uk",
+    "return_invoices",
+    "return_ratio"
+  ],
+  "segment_names": {
+    "0": "Dormant one-time buyers",
+    "1": "Recent light buyers",
+    "2": "At-risk regulars",
+    "3": "Champions"
+  },
+  "versions": {
+    "python": "3.13.5",
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "sklearn": "1.8.0"
+  }
+}

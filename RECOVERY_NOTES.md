@@ -1,0 +1,5 @@
+# Provenance and reproducibility
+
+This project is a reconstructed Python implementation from Claude conversation tool-call records, subsequently **independently executed using the user-uploaded original UCI Online Retail II Excel workbook** on 2 October 2026. It is not evidence that an earlier proposed ChatGPT portfolio project was originally completed. Both the recovered source notebook (`notebooks/analysis.ipynb`) and the new executed copy (`notebooks/analysis_EXECUTED.ipynb`) are preserved.
+
+The source data workbook was extracted byte-for-byte from the user-uploaded UCI archive and kept unchanged. This project is based on a historical UK retailer, not Australian customer behaviour. Churn is a constructed 90-day purchase-inactivity target, not recorded cancellation. Snapshot-based train/validation/test separation is used, but customers may appear in multiple snapshots. Segment descriptions are analytical labels, not real-world demographic traits. Revenue-at-risk figures use a trailing-sales proxy and should not be described as actual realised revenue losses.

@@ -1,0 +1,1 @@
+Download **Online Retail II** from https://archive.ics.uci.edu/dataset/502/online+retail+ii and put the unmodified workbook in this folder as `online_retail_II.xlsx`. Do not use the different one-year `Online Retail` dataset. SHA256 of the exact workbook used for this verified execution: `bcbe73b35f5b7babf197fb0cb983a11f5d9ff929078d4aa53d171b1f2df2e980`.

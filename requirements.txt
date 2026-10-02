@@ -1,0 +1,9 @@
+# Recovered project's key dependencies. Versions are left flexible until successful local execution.
+notebook
+nbformat
+jupyter
+numpy
+pandas
+matplotlib
+scikit-learn
+openpyxl
